@@ -16,4 +16,4 @@ basic resources
 
 ## config
 
-[mc](https://github.com/strugamano/home/tree/main/config/mc.tar.gz), [nomacs](https://github.com/strugamano/home/tree/main/config/nomacs.tar.gz)
+[mc](https://github.com/strugamano/home/tree/main/config/mc.tar.gz), [nomacs](https://github.com/strugamano/home/tree/main/config/nomacs.tar.gz), [smplayer](https://github.com/strugamano/home/tree/main/config/smplayer.tar.gz), [conky](https://github.com/strugamano/home/tree/main/config/conky.tar.gz)
