@@ -1,2 +1,7 @@
 /.directory
+/.gitignore
+/.idea
+/Pipfile
+/Pipfile.lock
+/__pycache__
 /*/.directory
