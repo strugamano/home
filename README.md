@@ -24,6 +24,7 @@ strugamano @ [stackoverflow](https://stackoverflow.com/users/19555447/strugamano
 
 ### Python
 
+- [Qt snippets (local)](https://github.com/strugamano/home/tree/main/Qt.md)
 - [The Python Tutorial (official)](https://docs.python.org/3/tutorial/index.html)
 - [RealPython](https://realpython.com/)
 - [pythonguis (pyside6, Qt)](https://www.pythonguis.com/pyside6/)
