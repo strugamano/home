@@ -1,5 +1,7 @@
 # Qt snippets
 
+`pyside6-uic mainwindow.ui -o MainWindow.py`
+
 ## basic setup
 
 ```python
